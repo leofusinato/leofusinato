@@ -1,6 +1,6 @@
 ### Eae! Eu sou o Léo!
 
-👨‍💻 React Native Developer at <a href="https://www.spartalabs.com.br/">Sparta Labs</a>
+👨‍💻 React Native Developer at <a href="https://more.tt/">Môre Talent Tech</a>
 <div align="center">
   <a href="https://github.com/leofusinato">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leofusinato&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
