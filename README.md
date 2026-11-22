@@ -1,6 +1,6 @@
 ### Eae! Eu sou o Léo!
 
-👨‍💻 React Native Developer at 🐶[Bamse Digital](https://www.bamse.co/)!
+👨‍💻 React Native Developer at [OMO Lavanderia](https://www.omolavanderia.com.br/)!
 <div align="center">
   <a href="https://github.com/leofusinato">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leofusinato&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
